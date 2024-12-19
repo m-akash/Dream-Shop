@@ -30,7 +30,7 @@ MySQL/PostgreSQL (for database)
 
 # Clone the Repository
 
-git clone https://github.com/your-username/ecommerce-backend.git
+git clone https://github.com/m-akash/Dream-Shop.git
 
 # Configure Database
 
